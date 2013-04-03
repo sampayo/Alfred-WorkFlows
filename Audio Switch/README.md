@@ -1,5 +1,5 @@
 Audio Switch
-=================
+==================
 
 ***
 Switch between your input sources and output devices.  
@@ -23,6 +23,6 @@ Since I don't have any audio device or source connected to my laptop only 1 (the
 [PP]:http://www.alfredapp.com "Alfred"
 [download]:https://dl.dropbox.com/u/7231699/Audio%20Switch.alfredworkflow "AudioS"
 
-[image1]: http://cl.ly/image/0a0W463F4500/Screen%20Shot%202013-04-02%20at%2011.17.24%20AM.png  "alfred"
+[image1]:http://cl.ly/image/1N322C3U410q/Captura%20de%20pantalla%202013-04-03%20a%20la(s)%2010.44.29.png "alfred"
 
-[image2]:http://cl.ly/image/2g2P3X0F240J/Screen%20Shot%202013-04-02%20at%2011.17.57%20AM.png "alfred2"
+[image2]:http://cl.ly/image/0W450B272j3Z/Captura%20de%20pantalla%202013-04-03%20a%20la(s)%2010.44.36.png "alfred2"
