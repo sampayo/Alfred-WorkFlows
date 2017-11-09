@@ -4,7 +4,7 @@ Audio Switch
 ***
 Switch between your input sources and output devices.  
 
-To install just [download][download] and doble click the *.alfredworkflow* file.*
+To install just [download][download] and double click the *.alfredworkflow* file.*
 
 To change your input source type *input* (it could take a little bit to load your sources), then select the one you desire
 
