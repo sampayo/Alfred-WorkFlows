@@ -1,4 +1,4 @@
 Alfred-WorkFlows
 ================
 
-My Alfred v2 workflows.
+My Alfred v2 workflows
